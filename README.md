@@ -39,7 +39,7 @@ Follow these steps to set up the project locally:
    ```
 5. Open http://localhost:3000 in your browser.
 
-##Deployment
+## Deployment
 
 The front-end is deployed on Vercel. To deploy your own version:
 
