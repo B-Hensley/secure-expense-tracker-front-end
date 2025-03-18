@@ -50,7 +50,13 @@ The front-end is deployed on Vercel. To deploy your own version:
 
 The backend is deployed separately on Heroku (see the note below for details).
 
-Security Analysis
+## Security Analysis
+
+### My name is Brenda Hensley. I am a recent graduate of Western Governor's University's Bachelor of Science in Cybersecurity and Information Assurance program. I hold a few industry certifications, including CompTIA's Security+, CySA+, and PenTest+ to name a few. I have been working on my hands-on skills to widen my scope and get experience doing different things. During this project, my husband Gavin Hensley built a web application, and I conducted various security tests on the application. This is a short write-up of some of the tasks I completed during my initial security testing and some thought processes I went through.
+
+### My Role
+Security and Vulnerability Testing, Solution Implementation Verification
+   
 
 [To be added by Brenda Hensley]
 
